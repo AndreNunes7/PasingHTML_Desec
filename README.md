@@ -18,7 +18,8 @@ Certifique-se de ter o Bash instalado no seu sistema.
 ./Parsing.sh www.site.exemplo.com
 ````
 
-# Saida: ![image](https://github.com/AndreNunes7/PasingHTML_Desec/assets/92069471/25705bbb-8cb9-45d2-9bc9-0cb4086693ac)
+# Saida: 
+![image](https://github.com/AndreNunes7/PasingHTML_Desec/assets/92069471/25705bbb-8cb9-45d2-9bc9-0cb4086693ac)
 
 - O script exibirá uma lista de URLs encontradas e seus respectivos endereços IP.
 
